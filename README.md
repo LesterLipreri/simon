@@ -1,2 +1,2 @@
 # simon
-Juego simon dice
+Tarea del juego simon dice
